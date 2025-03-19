@@ -120,28 +120,11 @@ def grieksNederlands(tekst):
             score = 0
         
 
-def nederlandsGrieks(tekst):
-    score = 0
-    while True:
-        antwoord = random.choice(list(tekst.keys()))
-        vraag = tekst[antwoord]
-        print(vraag)
-        x = input("-> ")
-        if x == antwoord:
-            print("goed gedaan! (typ q om te stoppen)")
-            score = score + 1
-            print(f"je streak is nu: {score}.")
-        elif x == "q":
-            break
-        else:
-            print(f"sorry, dat is fout. Het goede antwoord is {antwoord} . (typ q om te stoppen)")
-            print(f"Je had een streak van: {score}.")
-            score = 0
         
             
 
 if __name__ == "__main__":
-    print("welkom, bij grieksoefenen!\nKies welke je wil typ 'a' om Grieks naar Nederlands te oefenen en typ 'b' om Nederlands naar Grieks te oefenen.")
+    print("welkom, bij grieksoefenen!\nKies welke je wil typ 'a' om Grieks naar Nederlands te oefenen.")
     x = input("-> ")
     if x == "a":
         print("Oké, veel succes!")
@@ -164,11 +147,7 @@ if __name__ == "__main__":
             grieksNederlands(tekst)
         else:
             print("sorry, die tekst bestaat niet.")
-
-    elif x == "b":
-        print("Oké, veel succes!")
-        tekst = griekseWoordentekst2
-        nederlandsGrieks(tekst)
+            
     else:
         print("Sorry, dat begrijp ik niet.")
 
