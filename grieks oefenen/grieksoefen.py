@@ -134,7 +134,7 @@ griekseWoordentekst9 = {
     "φεύγω": "achtervolgen, wegjagen",
     "διαφθείρω": "vernietigen, bederven",
     "πέμπω": "zenden, sturen",
-    "ὁ λόγος": "woord, verhaal"
+    "ὁ λόγος": "woord, verhaal",
     "πάλιν": "opnieuw",
     "ἡ πρύμνα": "achtersteven",
     "ἡ ὁδός": "weg, tocht",
