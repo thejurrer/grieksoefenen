@@ -101,6 +101,46 @@ griekseWoordentekst7 = {
     "ἡ βοήθεια": "hulp"
 }
 
+griekseWoordentekst8 = {
+    "ἡ Ἑλλάς, Ἑλλάδος": "Griekenland",
+    "σύν + dat.": "met",
+    "αὐτός, αὐτή, αὐτό": "gen/dat/acc hij, zij, het",
+    "ὁ στόλος": "reis, expeditie",
+    "ποιέω": "maken, doen",
+    "ὁ λιμήν, λιμένος": "haven",
+    "τὸ πλοῖον": "vaartuig, schip",
+    "θαυμάζω": "bewonderen",
+    "ἐγώ / ἐμοῦ / ἐμοί / ἐμέ": "ik, mij",
+    "σύ / σοῦ / σοί / σέ": "jij / jou, u",
+    "ὦ": "o",
+    "ὁ φίλος": "vriend",
+    "ὁ κίνδυνος": "gevaar",
+    "ἡμᾶς": "wij / ons",
+    "ὑμείς/ὑμών/ὑμᾶς": "jullie",
+    "ἡ σοφία": "(vak)kennis, wijsheid",
+    "ἡ θάλαττα": "zee",
+    "ἡ τιμή": "eer, aanzien"
+}
+
+griekseWoordentekst9 = {
+    "οὐ": "waar",
+    "ὁ γέρων, γέροντος": "oude man",
+    "τερι + gen": "over, om",
+    "ἡ δίκη": "straf",
+    "τὸ δεῖπνον": "maaltijd",
+    "ἁρπάζω": "roven",
+    "παρασκευάζω": "klaarmaken",
+    "ἥκω": "komen, gekomen zijn",
+    "φεύγω": "achtervolgen, wegjagen",
+    "διαφθείρω": "vernietigen, bederven",
+    "πέμπω": "zenden, sturen",
+    "ὁ λόγος": "woord, verhaal"
+    "πάλιν": "opnieuw",
+    "ἡ πρύμνα": "achtersteven",
+    "ἡ ὁδός": "weg, tocht",
+}
+
+
 def grieksNederlands(tekst):
     score = 0
     while True:
