@@ -185,6 +185,12 @@ if __name__ == "__main__":
         elif tekstchoice == "7":
             tekst = griekseWoordentekst7
             grieksNederlands(tekst)
+        elif tekstchoice == "8":
+            tekst = griekseWoordentekst8
+            grieksNederlands(tekst)
+        elif tekstchoice == "9":
+            tekst = griekseWoordentekst9
+            grieksNederlands(tekst)
         else:
             print("sorry, die tekst bestaat niet.")
             
