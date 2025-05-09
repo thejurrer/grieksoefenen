@@ -31,7 +31,7 @@ if __name__ == "__main__":
     if x == "a":
         print("Oké, veel succes!")
         
-        tekstchoice = input("Welke tekst wil je oefenen (antwoord met een cijfer): ")
+        tekstchoice = input("Welke tekst wil je oefenen (antwoord met een cijfer, typ alles om alles te krijgen): ")
         if tekstchoice == "2":
             tekst = d.griekseWoordentekst2
             grieksNederlands(tekst)
@@ -53,6 +53,13 @@ if __name__ == "__main__":
         elif tekstchoice == "9":
             tekst = d.griekseWoordentekst9
             grieksNederlands(tekst)
+        elif tekstchoice == "alles":
+            alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9
+            grieksNederlands(alles)
+        elif tekstchoice == "1":
+            print("sorry, die tekst bestaat niet.")
+        elif tekstchoice == "q":
+            print("tot ziens!")  
         else:
             print("sorry, die tekst bestaat niet.")
             
