@@ -137,3 +137,26 @@ griekseWoordentekst9 = {
     "ἡ πρύμνα": "achtersteven",
     "ἡ ὁδός": "weg, tocht",
 }
+
+griekseWoordentekst11 = {
+    "ἀγανακτέω": "boos worden, boos zijn",
+    "ἀκούω": "luisteren (naar), horen",
+    "ὁ οἶκος": "huis, woning",
+    "λύω": "losmaken, bevrijden",
+    "πράττω": "doen, handelen",
+    "σῴζω": "redden",
+    "λαμβάνω": "nemen, krijgen",
+    "μή + imp": "niet",
+    "εἰμί": "zijn, bestaan",
+    "πῶς": "hoe",
+    "μέλλω": "zullen, van plan zijn, op het punt staan",
+    "τάχα": "snel, spoedig",
+    "γιγνώσκω": "begrijpen, (leren) kennen",
+    "ὅτι": "dat / omdat",
+    "ἔτι": "nog",
+    "οὔποτε": "nooit",
+    "μετέχω + gen": "deelnemen aan",
+    "ὁ οἶνος": "wijn",
+    "πίνω": "drinken",
+    "κωλύω": "tegenhouden, verhinderen"
+}
