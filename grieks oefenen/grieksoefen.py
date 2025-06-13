@@ -59,6 +59,9 @@ if __name__ == "__main__":
         elif tekstchoice == "alles":
             alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9 | d.griekseWoordentekst11
             grieksNederlands(alles)
+        elif tekstchoice == "lidwoorden":
+            tekst =d.lidwoorden
+            grieksNederlands(tekst)
         elif tekstchoice == "q":
             print("tot ziens!") 
         else:

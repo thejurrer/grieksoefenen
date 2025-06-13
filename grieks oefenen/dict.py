@@ -160,3 +160,22 @@ griekseWoordentekst11 = {
     "πίνω": "drinken",
     "κωλύω": "tegenhouden, verhinderen"
 }
+lidwoorden = {
+    "ὁ": "nominativus mannelijk enkelvoud",
+    "τοῦ": "genitivus mannelijk/onzijdig enkelvoud",
+    "τῷ": "dativus mannelijk/onzijdig enkelvoud",
+    "τόν": "accusativus mannelijk enkelvoud",
+    "οἱ": "nominativus mannelijk meervoud",
+    "τῶν": "genitivus mannelijk/vrouwelijk/onzijdig meervoud",
+    "τοῖς": "dativus mannelijk/onzijdig meervoud",
+    "τούς": "accusativus mannelijk meervoud",
+    "ἡ": "nominativus vrouwelijk enkelvoud",
+    "τῆς": "genitivus vrouwelijk enkelvoud",
+    "τῇ": "dativus vrouwelijk enkelvoud",
+    "τήν": "accusativus vrouwelijk enkelvoud",
+    "αἱ": "nominativus vrouwelijk meervoud",
+    "ταῖς": "dativus vrouwelijk meervoud",
+    "τάς": "accusativus vrouwelijk meervoud",
+    "τό": "nominativus/accusativus onzijdig enkelvoud",
+    "τά": "nominativus/accusativus onzijdig meervoud"
+}
