@@ -82,7 +82,7 @@ griekseWoordentekst7 = {
     "κτείνω": "doden",
     "ὁ φόβος": "angst",
     "φεύγω": "vluchten, ontvluchten",
-    "ὁ χῶρος": "gebied, plaats",
+    "ὁ Χώρα": "gebied, plaats",
     "ἡ ἀρετή": "dapperheid, voortreffelijkheid",
     "φαίνω": "laten zien, tonen",
     "εθελω": "willen",
@@ -161,6 +161,26 @@ griekseWoordentekst11 = {
     "κωλύω": "tegenhouden, verhinderen"
 }
 lidwoorden = {
+<<<<<<< HEAD
+    "ὁ": "nom m ev",
+    "τοῦ": "gen m/o ev",
+    "τῷ": "dat m/o ev",
+    "τόν": "acc m ev",
+    "οἱ": "nom m mv",
+    "τῶν": "gen m/v/o mv",
+    "τοῖς": "dat m/o mv",
+    "τούς": "acc m mv",
+    "ἡ": "nom v ev",
+    "τῆς": "gen v ev",
+    "τῇ": "dat v ev",
+    "τήν": "acc v ev",
+    "αἱ": "nom v mv",
+    "ταῖς": "dat v mv",
+    "τάς": "acc v mv",
+    "τό": "nom/acc o ev",
+    "τά": "nom/acc o mv"
+}
+=======
     "ὁ": "nominativus mannelijk enkelvoud",
     "τοῦ": "genitivus mannelijk/onzijdig enkelvoud",
     "τῷ": "dativus mannelijk/onzijdig enkelvoud",
@@ -179,3 +199,4 @@ lidwoorden = {
     "τό": "nominativus/accusativus onzijdig enkelvoud",
     "τά": "nominativus/accusativus onzijdig meervoud"
 }
+>>>>>>> f556dfbdecb098d6f987bd6b92f32afea9708211
