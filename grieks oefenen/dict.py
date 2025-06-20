@@ -161,7 +161,6 @@ griekseWoordentekst11 = {
     "κωλύω": "tegenhouden, verhinderen"
 }
 lidwoorden = {
-<<<<<<< HEAD
     "ὁ": "nom m ev",
     "τοῦ": "gen m/o ev",
     "τῷ": "dat m/o ev",
@@ -180,23 +179,3 @@ lidwoorden = {
     "τό": "nom/acc o ev",
     "τά": "nom/acc o mv"
 }
-=======
-    "ὁ": "nominativus mannelijk enkelvoud",
-    "τοῦ": "genitivus mannelijk/onzijdig enkelvoud",
-    "τῷ": "dativus mannelijk/onzijdig enkelvoud",
-    "τόν": "accusativus mannelijk enkelvoud",
-    "οἱ": "nominativus mannelijk meervoud",
-    "τῶν": "genitivus mannelijk/vrouwelijk/onzijdig meervoud",
-    "τοῖς": "dativus mannelijk/onzijdig meervoud",
-    "τούς": "accusativus mannelijk meervoud",
-    "ἡ": "nominativus vrouwelijk enkelvoud",
-    "τῆς": "genitivus vrouwelijk enkelvoud",
-    "τῇ": "dativus vrouwelijk enkelvoud",
-    "τήν": "accusativus vrouwelijk enkelvoud",
-    "αἱ": "nominativus vrouwelijk meervoud",
-    "ταῖς": "dativus vrouwelijk meervoud",
-    "τάς": "accusativus vrouwelijk meervoud",
-    "τό": "nominativus/accusativus onzijdig enkelvoud",
-    "τά": "nominativus/accusativus onzijdig meervoud"
-}
->>>>>>> f556dfbdecb098d6f987bd6b92f32afea9708211
