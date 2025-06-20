@@ -82,7 +82,7 @@ griekseWoordentekst7 = {
     "κτείνω": "doden",
     "ὁ φόβος": "angst",
     "φεύγω": "vluchten, ontvluchten",
-    "ὁ χῶρος": "gebied, plaats",
+    "ὁ Χώρα": "gebied, plaats",
     "ἡ ἀρετή": "dapperheid, voortreffelijkheid",
     "φαίνω": "laten zien, tonen",
     "εθελω": "willen",
