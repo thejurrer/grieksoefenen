@@ -152,7 +152,7 @@ griekseWoordentekst11 = {
     "μέλλω": "zullen, van plan zijn, op het punt staan",
     "τάχα": "snel, spoedig",
     "γιγνώσκω": "begrijpen, (leren) kennen",
-    "ὅτι": "dat / omdat",
+    "ὅτι": "dat, omdat",
     "ἔτι": "nog",
     "οὔποτε": "nooit",
     "μετέχω + gen": "deelnemen aan",
