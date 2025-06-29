@@ -63,7 +63,7 @@ if __name__ == "__main__":
             tekst =d.lidwoorden
             grieksNederlands(tekst)
         elif tekstchoice == "persoonsvormen":
-            tekst =d.lidwoorden
+            tekst =d.persoonsVormen
             grieksNederlands(tekst)
         elif tekstchoice == "q":
             print("tot ziens!") 
