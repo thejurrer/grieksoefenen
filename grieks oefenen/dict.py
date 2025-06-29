@@ -102,19 +102,14 @@ griekseWoordentekst7 = {
 griekseWoordentekst8 = {
     "ἡ Ἑλλάς, Ἑλλάδος": "Griekenland",
     "σύν + dat.": "met",
-    "αὐτός, αὐτή, αὐτό": "hij, zij, het",
     "ὁ στόλος": "reis, expeditie",
     "ποιέω": "maken, doen",
     "ὁ λιμήν, λιμένος": "haven",
     "τὸ πλοῖον": "vaartuig, schip",
     "θαυμάζω": "bewonderen",
-    "ἐγώ / ἐμοῦ / ἐμοί / ἐμέ": "ik, mij",
-    "σύ / σοῦ / σοί / σέ": "jij, jou, u",
     "ὦ": "o",
     "ὁ φίλος": "vriend",
     "ὁ κίνδυνος": "gevaar",
-    "ἡμᾶς": "wij, ons",
-    "ὑμείς/ὑμών/ὑμᾶς": "jullie",
     "ἡ σοφία": "(vak)kennis, wijsheid",
     "ἡ θάλαττα": "zee",
     "ἡ τιμή": "eer, aanzien"
@@ -178,4 +173,11 @@ lidwoorden = {
     "τάς": "acc v mv",
     "τό": "nom/acc o ev",
     "τά": "nom/acc o mv"
+}
+persoonsVormen = {
+    "αὐτός, αὐτή, αὐτό": "hij, zij, het",
+    "ἐγώ / ἐμοῦ / ἐμοί / ἐμέ": "ik, mij",
+    "σύ / σοῦ / σοί / σέ": "jij, jou, u",
+    "ἡμᾶς": "wij, ons",
+    "ὑμείς/ὑμών/ὑμᾶς": "jullie",
 }
