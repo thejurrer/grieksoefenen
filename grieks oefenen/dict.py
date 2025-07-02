@@ -72,7 +72,7 @@ griekseWoordentekst6 = {
     "ὁ πατήρ, πατρός": "vader",
     "ἡ κεφαλή": "hoofd",
     "ἡ ἐσθής, ἐσθῆτος": "kleding(stuk)",
-    "ἤδη": "al, reeds (vanaf) nu",
+    "ἤδη": "al, reeds, (vanaf) nu",
     "ἡ θυγάτηρ, θυγατρός": "dochter"
 }
 
