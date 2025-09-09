@@ -26,7 +26,7 @@ def grieksNederlands(tekst):
             
 
 if __name__ == "__main__":
-    print("welkom, bij grieksoefenen!\nKies welke je wil typ 'a' om Grieks naar Nederlands te oefenen.")
+    print("welkom, bij grieksoefenen!\nKies welke je wil typ 'a' om Grieks te oefenen en 'b' om latijn te oefenen.")
     x = input("-> ")
     if x == "a":
         print("Oké, veel succes!")
@@ -68,8 +68,19 @@ if __name__ == "__main__":
         elif tekstchoice == "q":
             print("tot ziens!") 
         else:
-            print("sorry, die tekst bestaat niet.")
-            
+            print("sorry, die tekst bestaat niet.") 
+    
+    elif x == 'b':
+        print("Oké, succes!")
+
+        tekstchoice = input("Welke tekst wil je oefenen (antwoord met een cijfer): ")
+
+        if tekstchoice == "1":
+            tekst = d.latijnseWoordentekst1
+            grieksNederlands(tekst)
+
+    
+
     else:
         print("Sorry, dat begrijp ik niet.")
 

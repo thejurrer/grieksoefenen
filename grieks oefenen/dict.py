@@ -1,3 +1,9 @@
+
+###################
+## Grieks klas 1 ##
+###################
+
+
 griekseWoordentekst2 = {
     "ἐστί(ν)": "(hij/zij/het/er) is, bestaat",
     "ὁ, ἡ, τό": "de, het",
@@ -181,3 +187,74 @@ persoonsVormen = {
     "ἡμᾶς": "wij, ons",
     "ὑμείς/ὑμών/ὑμᾶς": "jullie",
 }
+
+
+
+###################
+## Grieks klas 2 ##
+###################
+
+
+griekseWoordentekst12 = {
+    "πύργον": "toren",
+    "εὑρίσκω": "vinden",
+    "ἐπί, ἐπ᾽, ἐφ᾽ + gen": "op, tijdens",
+    "ἐπεί / ἐπειδή": "toen, nadat, omdat, aangezien",
+    "εἶδον": "zien",
+    "ὁράω": "zien",
+    "εἶπον": "zeggen",
+    "μένω": "blijven, wachten (op)",
+    "λείπω": "verlaten, achterlaten",
+    "ἔλαβον": "aor van nemen, krijgen",
+    "ἔτυχον": "aor van treffen, raken",
+    "ἔθανον": "aor van sterven, ontkomen",
+    "θνῄσκω": "sterven, omkomen",
+    "τρέπω": "wenden, keren",
+    "ἔσχον": "aor van hebben, houden",
+    "διά, δι᾽ + acc": "wegens, door toedoen van",
+    "ἀπό, ἀπ᾽, ἀφ᾽ + gen": "van ... vandaan, vanaf, sinds",
+    "ἔχoν": "ipf van hebben, houden",
+    "ἔφυγον": "aor van vluchten, ontvluchten"
+}
+
+
+
+##################
+## Latin klas 2 ##
+##################
+
+
+latijnseWoordentekst1 = {
+    "flumen, flumina": "rivier",
+    "rex, reges": "koning",
+    "servus": "slaaf",
+    "vocare": "roepen, noemen",
+    "venire": "komen",
+    "audire": "horen",
+    "videre": "zien",
+    "puer, pueri": "jongen",
+    "iacere": "liggen",
+    "clamare": "schreeuwen",
+    "et": "en, ook",
+    "lacrimare": "huilen",
+    "necare": "doden",
+    "iubere": "bevelen",
+    "timere": "vrezen, bang zijn voor",
+    "ideo": "daarom",
+    "mandatum": "opdracht",
+    "non": "niet",
+    "recusare": "weigeren",
+    "tamen": "toch",
+    "tollere": "optillen",
+    "ad + acc": "naar, tot, bij",
+    "portare": "dragen",
+    "in + acc": "in, naar",
+    "ponere": "plaatsen",
+    "locus": "plaats",
+    "ubi": "waar",
+    "aqua": "water",
+    "inter + acc": "tussen, tijdens",
+    "arbor, arbores": "boom",
+    "ibi": "daar",
+}
+
