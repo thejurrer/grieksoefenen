@@ -22,27 +22,42 @@ def grieksNederlands(tekst):
             print(f"je had een streak van: {score}.")
             if score >= 10:
                 print("\nmehhhh, je kan het beter doen!")
+
             if score >= 20:
                 print("\nAhh, oké dit gaat de goede kant op!")
+
             if score >= 30:
                 print("\ngoed,goed, nog heel eventjes en je bent er!")
+                print("Added to highscore list:", score)
+                highscores(score)
+
             if score >= 40:
                 print("\nJij hebt het helemaal beheerst, goed!")
+
             if score >= 100:
                 print("\nga iets nuttigs met je leven doen")
+                
             if score >= 150:
                 mark = True
                 while mark:
                     print("mark ga weg")
             
             score = 0
-        
 
+
+def seehighscores():
+    with open("highscores.txt", "r") as f:
+        print(f.read())
+
+def highscores(score):
+    with open("highscores.txt", "a") as f:
+        f.write(f"{score}, " )
+    
         
             
 
 if __name__ == "__main__":
-    print("welkom, bij grieksoefenen!\nKies welke je wil typ 'a' om Grieks te oefenen en 'b' om latijn te oefenen.")
+    print("welkom, bij grieksoefenen!\nKies welke je wil typ 'a' om Grieks te oefenen en 'b' om latijn te oefenen.\nOm highscores te zien, typ 'c'.")
     x = input("-> ")
     if x == "a":
         print("Oké, veel succes!")
@@ -97,6 +112,10 @@ if __name__ == "__main__":
         if tekstchoice == "1":
             tekst = d.latijnseWoordentekst1
             grieksNederlands(tekst)
+    
+    elif x == 'c':
+        print("Oké")
+        seehighscores()
 
     
 
