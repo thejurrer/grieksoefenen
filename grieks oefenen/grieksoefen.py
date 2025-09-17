@@ -2,6 +2,7 @@ import random
 import dict as d
 import sys
 sys.dont_write_bytecode = True
+mark = False
 
 def grieksNederlands(tekst):
     score = 0
@@ -19,6 +20,21 @@ def grieksNederlands(tekst):
         else:
             print(f"sorry, dat is fout. Het goede antwoord is {antwoord} . (typ q om te stoppen)")
             print(f"je had een streak van: {score}.")
+            if int(score) == 10:
+                print("\nmehhhh, je kan het beter doen!")
+            if int(score) == 20:
+                print("\nAhh, oké dit gaat de goede kant op!")
+            if int(score) == 30:
+                print("\ngoed,goed, nog heel eventjes en je bent er!")
+            if int(score) == 40:
+                print("\nJij hebt het helemaal beheerst, goed!")
+            if int(score) == 100:
+                print("\nga iets nuttigs met je leven doen")
+            if int(score) == 150:
+                mark = True
+                while mark:
+                    print("mark ga weg")
+            
             score = 0
         
 
