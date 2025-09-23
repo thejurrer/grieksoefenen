@@ -20,27 +20,38 @@ def grieksNederlands(tekst):
         else:
             print(f"sorry, dat is fout. Het goede antwoord is {antwoord} . (typ q om te stoppen)")
             print(f"je had een streak van: {score}.")
-            if score >= 10:
-                print("\nmehhhh, je kan het beter doen!")
-
-            if score >= 20:
-                print("\nAhh, oké dit gaat de goede kant op!")
-
-            if score >= 30:
-                print("\ngoed,goed, nog heel eventjes en je bent er!")
-                print("Added to highscore list:", score)
-                highscores(score)
-
-            if score >= 40:
-                print("\nJij hebt het helemaal beheerst, goed!")
-
-            if score >= 100:
-                print("\nga iets nuttigs met je leven doen")
-                
             if score >= 150:
                 mark = True
+                naam = input("Wat is je naam?")
+                print("Added to highscore list:", score)
+                highscores(score, naam)
+                
                 while mark:
                     print("mark ga weg")
+
+            elif score >= 100:
+                print("\nga iets nuttigs met je leven doen")
+                naam = input("Wat is je naam?")
+                print("Added to highscore list:", score)
+                highscores(score, naam)
+
+            elif score >= 40:
+                print("\nJij hebt het helemaal beheerst, goed!")
+                naam = input("Wat is je naam?")
+                print("Added to highscore list:", score)
+                highscores(score, naam)
+
+            elif score >= 30:
+                print("\ngoed, goed, nog heel eventjes en je bent er!")
+                naam = input("Wat is je naam?")
+                print("Added to highscore list:", score)
+                highscores(score, naam)
+
+            elif score >= 20:
+                print("\nAhh, oké dit gaat de goede kant op!")
+
+            elif score >= 10:
+                print("\nmehhhh, je kan het beter doen!")
             
             score = 0
 
@@ -49,9 +60,9 @@ def seehighscores():
     with open("highscores.txt", "r") as f:
         print(f.read())
 
-def highscores(score):
+def highscores(score, naam):
     with open("highscores.txt", "a") as f:
-        f.write(f"{score}, " )
+        f.write(f"{score, naam}, " )
     
         
             
