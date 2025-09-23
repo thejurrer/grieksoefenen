@@ -112,6 +112,9 @@ if __name__ == "__main__":
         if tekstchoice == "1":
             tekst = d.latijnseWoordentekst1
             grieksNederlands(tekst)
+        if tekstchoice == "2":
+            tekst = d.latijnseWoordentekst2
+            grieksNederlands(tekst)
     
     elif x == 'c':
         print("Oké")

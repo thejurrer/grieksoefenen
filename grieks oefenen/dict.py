@@ -257,4 +257,30 @@ latijnseWoordentekst1 = {
     "arbor, arbores": "boom",
     "ibi": "daar",
 }
+latijnseWoordentekst2 = {
+    "esse": "zijn",
+    "custodire": "bewaken",
+    "subito": "plotseling",
+    "accedere": " gaan naar, naderen",
+    "haud": "helemaal niet",
+    "praebere": "(aan)bieden",
+    "sic": "zo",
+    "bibere": "drinken",
+    "cogitare": "(na)denken",
+    "deus": "god",
+    "protegere": "beschermen",
+    "nam": "want",
+    "uxor, uxores": "echtgenote",
+    "tradere": "overhandigen",
+    "dicere": "zeggen",
+    "favere": "steun geven aan",
+    "filius": "zoon",
+    "femina": "vrouw",
+    "ridere": "lachen",
+    "nomen, nomina": "naam",
+    "dare": "geven",
+    "mater, matres": "moeder",
+    "sicut": "zoals",
+    "pater, patres": "vader"
+}
 
