@@ -300,7 +300,7 @@ latijnseWoordentekst3 = {
     "de + abl": "van(af), over, aangaande",
     "dividere": "verdelen",
     "dum": "terwijl, zolang als",
-    "facere, facio": "1 doen, 2 maken",
+    "facere, facio": "doen, maken",
     "frater, fratres": "broer",
     "gladius": "zwaard",
     "hostis, hostes": "vijand",
