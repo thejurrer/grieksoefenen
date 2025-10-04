@@ -283,4 +283,35 @@ latijnseWoordentekst2 = {
     "sicut": "zoals",
     "pater, patres": "vader"
 }
+latijnseWoordentekst3 = {
+    "quoque": "ook",
+    "saxum": "rots, rotsblok",
+    "sed": "maar",
+    "stare": "staan",
+    "tacere": "zwijgen",
+    "tandem": "eindelijk",
+    "urbs, urbes": "stad",
+    "vir, viri": "man",
+    "aedicificare": "bouwen",
+    "amicus": "vriend",
+    "civis, cives": "burger",
+    "cum + abl": "met",
+    "cur": "waarom",
+    "de + abl": "1 van(af), 2 over, aangaande",
+    "dividere": "verdelen",
+    "dum": "1 + prs terwijl, 2 zolang als",
+    "facere, facio": "1 doen, 2 maken",
+    "frater, fratres": "broer",
+    "gladius": "zwaard",
+    "hostis, hostes": "vijand",
+    "iam": "al, reeds",
+    "in + abl": "1 in, 2 op",
+    "intrare": "binnenkomen",
+    "licet (+ dat)": "het is toegestaan (aan)",
+    "mons, montes": "berg, heuvel",
+    "murus": "muur",
+    "placere + dat": "bevallen",
+    "populus": "volk",
+    "primum (bijw)": "eerst"
+}
 

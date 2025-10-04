@@ -123,9 +123,15 @@ if __name__ == "__main__":
         if tekstchoice == "1":
             tekst = d.latijnseWoordentekst1
             grieksNederlands(tekst)
-        if tekstchoice == "2":
+        elif tekstchoice == "2":
             tekst = d.latijnseWoordentekst2
             grieksNederlands(tekst)
+        elif tekstchoice == "3":
+            tekst = d.latijnseWoordentekst3
+            grieksNederlands(tekst)
+        elif tekstchoice == "alles":
+            alles = d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3
+            grieksNederlands(alles)
     
     elif x == 'c':
         print("Oké")
