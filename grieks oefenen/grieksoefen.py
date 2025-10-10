@@ -68,7 +68,7 @@ def highscores(score, naam):
             
 
 if __name__ == "__main__":
-    print("welkom, bij grieksoefenen!\nKies welke je wil typ 'a' om Grieks te oefenen en 'b' om latijn te oefenen.\nOm highscores te zien, typ 'c'.")
+    print("welkom, bij grieksoefenen!\nKies welke je wil typ 'a' om Grieks te oefenen en 'b' om latijn te oefenen. Als je beide wilt oefenen kies 'c'.\nOm highscores te zien, typ 'd'.")
     x = input("-> ")
     if x == "a":
         print("Oké, veel succes!")
@@ -132,8 +132,16 @@ if __name__ == "__main__":
         elif tekstchoice == "alles":
             alles = d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3
             grieksNederlands(alles)
+        elif tekstchoice == "q":
+            print("tot ziens!") 
+        else:
+            print("sorry, die tekst bestaat niet.") 
     
-    elif x == 'c':
+    elif x=='c':
+        alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9 | d.griekseWoordentekst11 | d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3
+        grieksNederlands(alles)
+
+    elif x == 'd':
         print("Oké")
         seehighscores()
 
