@@ -359,3 +359,29 @@ latijnseWoordentekst3 = {
     "primum (bijw)": "eerst"
 }
 
+latijnseWoordentekst4 = {
+    "Roma":"Rome",
+    "periculum":"gevaar",
+    "arx, arces":"burcht",
+    "Romanus":"Romein",
+    "turba":"menigte",
+    "puella":"meisje",
+    "miles, milites":"soldaat",
+    "si":"als, indien",
+    "temptare":"proberen",
+    "semper":"altijd",
+    "retinēre":"tegenhouden",
+    "nox, noctes":"nacht",
+    "dormire":"slapen",
+    "pars, partes":"deel",
+    "custos, custodes":"bewaker",
+    "silentium":"stilte",
+    "ecce":"kijk",
+    "arma mv":"wapens",
+    "statim":"meteen",
+    "cadere":"vallen",
+    "post + acc":"achter, na",
+    "auxilium":"hulp",
+    "servare":"redden",
+
+}
