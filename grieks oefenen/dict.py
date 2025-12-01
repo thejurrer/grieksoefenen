@@ -217,6 +217,50 @@ griekseWoordentekst12 = {
     "ἔφυγον": "aor van vluchten, ontvluchten"
 }
 
+griekseWoordentekst13 = {
+    "ἀπόλλυμα": "aor van sterven, omkomen",
+    "ἀποθνῄσκω": "sterven, omkomen",
+    "ἀποκτείνω": "doden",
+    "βάλλω": "gooien",
+    "ἔβαλον": "aor van gooien",
+    "ἔδραμον": "aor van rennen",
+    "ἔλιπον": "aor van verlaten",
+    "ἐλπίζω": "hopen (op), verwachten",
+    "ἔμαθον": "aor van leren",
+    "ἔπαθον": "aor van lijden, ondervinden",
+    "ἔπεσον": "aor van vallen",
+    "μανθάνω": "leren (kennen), vernemen",
+    "ἡ νίκη": "overwinning",
+    "νομίζω": "menen, beschouwen als",
+    "ὀφείλω + inf": "verplicht zijn te",
+    "πάσχω": "lijden, ondervinden",
+    "περί + acc": "rondom, om",
+    "πίπτω": "vallen",
+    "ὁ πόλεμος": "oorlog",
+    "τὸ σῶμα, σώματος": "lichaam",
+    "τρέχω": "rennen"
+}
+
+griekseWoordentekst14 = {
+    "αἱρέω": "grijpen, pakken",
+    "ἆρα": "leidt vraagzin in; niet vertalen",
+    "βαίνω": "gaan, stappen",
+    "δύο": "twee",
+    "εἷλον": "aor van grijpen, pakken",
+    "ἐξαίφνης": "plotseling",
+    "ἔπιον": "aor van drinken",
+    "ἤγαγον": "aor van leiden, brengen",
+    "ἤνεγκον": "aor van dragen, brengen",
+    "ὁ θάνατος": "de dood",
+    "θαυμάζω": "1. bewonderen, 2. zich verwonderen over",
+    "μετά / μετ’ / μεθ’ + gen": "(samen) met",
+    "οἱ μέν ... οἱ δέ": "sommigen ... anderen ...",
+    "πάρειμι": "aanwezig zijn",
+    "πιστεύω + dat": "geloven, vertrouwen op",
+    "ποτέ": "eens, ooit",
+    "τὸ ὕδωρ, ὕδατος": "water",
+    "φυλάττω": "1. bewaken, 2. beschermen"
+}
 
 
 ##################
