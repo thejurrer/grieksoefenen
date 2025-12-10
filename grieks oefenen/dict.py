@@ -243,7 +243,7 @@ griekseWoordentekst13 = {
 
 griekseWoordentekst14 = {
     "αἱρέω": "grijpen, pakken",
-    "ἆρα": "leidt vraagzin in; niet vertalen",
+    "ἆρα": "niet vertalen",
     "βαίνω": "gaan, stappen",
     "δύο": "twee",
     "εἷλον": "aor van grijpen, pakken",
@@ -252,14 +252,14 @@ griekseWoordentekst14 = {
     "ἤγαγον": "aor van leiden, brengen",
     "ἤνεγκον": "aor van dragen, brengen",
     "ὁ θάνατος": "de dood",
-    "θαυμάζω": "1. bewonderen, 2. zich verwonderen over",
+    "θαυμάζω": "bewonderen, zich verwonderen over",
     "μετά / μετ’ / μεθ’ + gen": "(samen) met",
     "οἱ μέν ... οἱ δέ": "sommigen ... anderen ...",
     "πάρειμι": "aanwezig zijn",
     "πιστεύω + dat": "geloven, vertrouwen op",
     "ποτέ": "eens, ooit",
     "τὸ ὕδωρ, ὕδατος": "water",
-    "φυλάττω": "1. bewaken, 2. beschermen"
+    "φυλάττω": "bewaken, beschermen"
 }
 
 
@@ -383,5 +383,23 @@ latijnseWoordentekst4 = {
     "post + acc":"achter, na",
     "auxilium":"hulp",
     "servare":"redden",
+
+}
+
+latijnseWoordentekst5 = {
+    "Ignis, ignes":"vuur",
+    "per + acc":"door (heen), gedurende",
+    "annus":"jaar",
+    "vivere":"leven",
+    "nuper":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
 
 }

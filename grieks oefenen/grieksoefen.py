@@ -37,9 +37,7 @@ def grieksNederlands(tekst):
 
             elif score >= 40:
                 print("\nJij hebt het helemaal beheerst, goed!")
-                naam = input("Wat is je naam?")
-                print("Added to highscore list:", score)
-                highscores(score, naam)
+                
 
             elif score >= 30:
                 print("\ngoed, goed, nog heel eventjes en je bent er!")
@@ -49,7 +47,7 @@ def grieksNederlands(tekst):
 
             elif score >= 20:
                 print("\nAhh, oké dit gaat de goede kant op!")
-
+                highscores(score, naam)
             elif score >= 10:
                 print("\nmehhhh, je kan het beter doen!")
             
@@ -59,6 +57,11 @@ def grieksNederlands(tekst):
 def seehighscores():
     with open("highscores.txt", "r") as f:
         print(f.read())
+
+def addhighscore():
+    naam = input("Wat is je naam:")
+    print("Added to highscore list:", score)
+    highscores(score, naam)
 
 def highscores(score, naam):
     with open("highscores.txt", "a") as f:
@@ -108,7 +111,7 @@ if __name__ == "__main__":
             tekst = d.griekseWoordentekst14
             grieksNederlands(tekst)
         elif tekstchoice == "alles":
-            alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9 | d.griekseWoordentekst11
+            alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9 | d.griekseWoordentekst11 | d.griekseWoordentekst12 | d.griekseWoordentekst13 | d.griekseWoordentekst14
             grieksNederlands(alles)
         elif tekstchoice == "lidwoorden":
             tekst =d.lidwoorden
@@ -139,7 +142,7 @@ if __name__ == "__main__":
             tekst = d.latijnseWoordentekst4
             grieksNederlands(tekst)
         elif tekstchoice == "alles":
-            alles = d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3
+            alles = d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3 | d.latijnseWoordentekst4
             grieksNederlands(alles)
         elif tekstchoice == "q":
             print("tot ziens!") 
