@@ -141,8 +141,11 @@ if __name__ == "__main__":
         elif tekstchoice == "4":
             tekst = d.latijnseWoordentekst4
             grieksNederlands(tekst)
+        elif tekstchoice == "5":
+            tekst = d.latijnseWoordentekst5
+            grieksNederlands(tekst)
         elif tekstchoice == "alles":
-            alles = d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3 | d.latijnseWoordentekst4
+            alles = d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3 | d.latijnseWoordentekst4 | d.latijnseWoordentekst5  
             grieksNederlands(alles)
         elif tekstchoice == "q":
             print("tot ziens!") 
@@ -150,7 +153,7 @@ if __name__ == "__main__":
             print("sorry, die tekst bestaat niet.") 
     
     elif x=='c':
-        alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9 | d.griekseWoordentekst11 | d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3
+        alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9 | d.griekseWoordentekst11 | d.griekseWoordentekst12 | d.griekseWoordentekst13 | d.griekseWoordentekst14 | d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3 | d.latijnseWoordentekst4 | d.latijnseWoordentekst5
         grieksNederlands(alles)
 
     elif x == 'd':
