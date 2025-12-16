@@ -37,7 +37,9 @@ def grieksNederlands(tekst):
 
             elif score >= 40:
                 print("\nJij hebt het helemaal beheerst, goed!")
-                
+                naam = input("Wat is je naam?")
+                print("Added to highscore list:", score)
+                highscores(score, naam)
 
             elif score >= 30:
                 print("\ngoed, goed, nog heel eventjes en je bent er!")
@@ -47,6 +49,8 @@ def grieksNederlands(tekst):
 
             elif score >= 20:
                 print("\nAhh, oké dit gaat de goede kant op!")
+                naam = input("Wat is je naam?")
+                print("Added to highscore list:", score)
                 highscores(score, naam)
             elif score >= 10:
                 print("\nmehhhh, je kan het beter doen!")

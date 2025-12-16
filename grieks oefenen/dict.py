@@ -41,20 +41,20 @@ griekseWoordentekst3 = {
 }
 
 griekseWoordentekst4 = {
-    "τὸ τέκνον" : "kind",
-    "τίκτω" : "ter wereld brengen, voortbrengen",
-    "ἡ κόρη" : "meisje",
-    "ὁ θρόνος" : "troon",
-    "οὖν" : "dus, dan, nu",
-    "οὕτω(ς)" : "zo, op deze manier",
-    "τέλος" : "tenslotte",
-    "ὁ δόλος" : "list, bedrog",
-    "ὁ υἱός" : "zoon",
-    "πρός" : "naar (toe), tot, tegen",
-    "ὁ ἀδελφός" : "broer",
-    "ἡ ἀδελφή" : "zus",
-    "ἔχω" : "hebben, houden",
-    "εἰς + acc" : "naar (binnen)"
+    "τὸ τέκνον": "kind",
+    "τίκτω": "ter wereld brengen, voortbrengen",
+    "ἡ κόρη": "meisje",
+    "ὁ θρόνος": "troon",
+    "οὖν": "dus, dan, nu",
+    "οὕτω(ς)": "zo, op deze manier",
+    "τέλος": "tenslotte",
+    "ὁ δόλος": "list, bedrog",
+    "ὁ υἱός": "zoon",
+    "πρός": "naar (toe), tot, tegen",
+    "ὁ ἀδελφός": "broer",
+    "ἡ ἀδελφή": "zus",
+    "ἔχω": "hebben, houden",
+    "εἰς + acc": "naar (binnen)"
 }
 
 griekseWoordentekst6 = {
@@ -305,7 +305,7 @@ latijnseWoordentekst2 = {
     "esse": "zijn",
     "custodire": "bewaken",
     "subito": "plotseling",
-    "accedere": " gaan naar, naderen",
+    "accedere": "gaan naar, naderen",
     "haud": "helemaal niet",
     "praebere": "(aan)bieden",
     "sic": "zo",
