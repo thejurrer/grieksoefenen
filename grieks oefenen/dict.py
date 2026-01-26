@@ -413,5 +413,31 @@ latijnseWoordentekst5 = {
     "e/ex":"uit",
     "mox":"spoedig"
 
+}
 
+latijnseWoordentekst6 = {
+    "amare": "houden van, liefhebben",
+    "bellum": "oorlog",
+    "celebrare": "(feest)vieren",
+    "cupere, cupio": "graag willen, verlangen",
+    "dux, duces": "aanvoerder, leider",
+    "equus": "paard",
+    "expectare": "wachten (op), verwachten",
+    "forum": "forum, marktplaats",
+    "fugere, fugio": "vluchten",
+    "gerere": "dragen, voeren",
+    "interea": "intussen",
+    "narrare": "vertellen",
+    "num": "(toch) zeker niet",
+    "pro + abl": "voor, in plaats van",
+    "prope + acc": "dichtbij",
+    "pugna": "gevecht",
+    "pugnare": "vechten",
+    "scilicet": "natuurlijk",
+    "sedere": "zitten",
+    "templum": "tempel",
+    "vendere": "verkopen",
+    "victoria": "overwinning",
+    "vincere": "(over)winnen",
+    "vita": "(het) leven"
 }

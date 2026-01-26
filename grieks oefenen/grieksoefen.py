@@ -131,7 +131,7 @@ if __name__ == "__main__":
     elif x == 'b':
         print("Oké, succes!")
 
-        tekstchoice = input("Welke tekst wil je oefenen (antwoord met een cijfer): ")
+        tekstchoice = input("Welke tekst wil je oefenen (antwoord met een cijfer, typ alles om alles te krijgen): ")
 
         if tekstchoice == "1":
             tekst = d.latijnseWoordentekst1
@@ -148,8 +148,11 @@ if __name__ == "__main__":
         elif tekstchoice == "5":
             tekst = d.latijnseWoordentekst5
             grieksNederlands(tekst)
+        elif tekstchoice == "6":
+            tekst = d.latijnseWoordentekst6
+            grieksNederlands(tekst)
         elif tekstchoice == "alles":
-            alles = d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3 | d.latijnseWoordentekst4 | d.latijnseWoordentekst5  
+            alles = d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3 | d.latijnseWoordentekst4 | d.latijnseWoordentekst5 | d.latijnseWoordentekst6
             grieksNederlands(alles)
         elif tekstchoice == "q":
             print("tot ziens!") 
@@ -157,7 +160,7 @@ if __name__ == "__main__":
             print("sorry, die tekst bestaat niet.") 
     
     elif x=='c':
-        alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9 | d.griekseWoordentekst11 | d.griekseWoordentekst12 | d.griekseWoordentekst13 | d.griekseWoordentekst14 | d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3 | d.latijnseWoordentekst4 | d.latijnseWoordentekst5
+        alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9 | d.griekseWoordentekst11 | d.griekseWoordentekst12 | d.griekseWoordentekst13 | d.griekseWoordentekst14 | d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3 | d.latijnseWoordentekst4 | d.latijnseWoordentekst5 | d.latijnseWoordentekst6
         grieksNederlands(alles)
 
     elif x == 'd':
