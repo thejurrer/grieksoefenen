@@ -62,7 +62,7 @@ def seehighscores():
     with open("highscores.txt", "r") as f:
         print(f.read())
 
-def addhighscore():
+def addhighscore(score):
     naam = input("Wat is je naam:")
     print("Added to highscore list:", score)
     highscores(score, naam)

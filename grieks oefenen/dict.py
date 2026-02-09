@@ -262,6 +262,49 @@ griekseWoordentekst14 = {
     "φυλάττω": "bewaken, beschermen"
 }
 
+griekseWoordentekst16 = {
+    "νικῶ": "overwinnen",
+    "οἱ Πέρσαι": "de Perzen",
+    "ὁ δεσμός": "boeien",
+    "ἄπιστοι": "onbetrouwbaar",
+    "μάλιστα": "vooral, het meest",
+    "δεῦρο": "hierheen",
+    "πολλὰ ἱερά": "veel offerdieren",
+    "θύω": "offeren",
+    "ψεύδω": "bedriegen",
+    "προλέγω": "voorspellen",
+    "πολεμήσεις": "jij zult oorlog voeren",
+    "πολεμέω": "oorlog voeren (tegen)",
+    "μεγάλην ἀρχὴν καταλύσεις": "jij zult een groot rijk vernietigen",
+    "ἡ ἀρχή": "begin; heerschappij, rijk",
+    "διότι": "omdat, doordat",
+    "μείζων ἤ": "groter dan",
+    "συμβουλεύω": "raad geven; aanraden om",
+    "ἡ ἀλήθεια": "de waarheid",
+    "κρύπτω": "verbergen",
+    "ἐγέλασα": "lachen",
+    "ὁ νήπιος": "dwaas",
+    "οὐδείς": "niemand",
+    "ἔξεστι": "het is mogelijk om",
+    "ἡ τύχη": "lot, kans; geluk; ongeluk",
+    "ἐπιλέγω": "bepalen voor",
+    "αἱ Μοῖραι": "Moirai",
+    "πέρθω": "verwoesten",
+    "τὸ μάντευμα": "orakel (spreuk)",
+    "ἐπερωτάω": "verder vragen",
+    "οὐδέν": "niets",
+    "ἐπιθυμέω": "verlangen naar; ernaar verlangen om",
+    "ἤλπισα": "hopen",
+    "τάδε": "deze dingen, het volgende",
+    "ὁ μῦς": "muis",
+    "μικρός": "klein",
+    "ἡ ψύλλα": "vlo",
+    "μέγας": "groot",
+    "ἀγνοέω": "niet begrijpen, niet weten",
+    "ἱκανῶς": "voldoende",
+    "ἐφύλαξα": "bewaken"
+}
+
 
 ##################
 ## Latin klas 2 ##
