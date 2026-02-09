@@ -262,7 +262,7 @@ griekseWoordentekst14 = {
     "φυλάττω": "bewaken, beschermen"
 }
 
-griekseWoordentekst16 = {
+griekseWoordentekst17 = {
     "νικῶ": "overwinnen",
     "οἱ Πέρσαι": "de Perzen",
     "ὁ δεσμός": "boeien",
