@@ -545,3 +545,26 @@ latijnseWoordentekst9 = {
     "claudere": "sluiten"
 }
 
+latijnseWoordentekst10 = {
+    "homo, homines":"mens, man",
+    "pendēre":"hangen",
+    "umbra":"schaduw",
+    "vinum":"wijn",
+    "agmen, agmina":"rij, stoet",
+    "longe":"ver(weg), verreweg",
+    "a/ab + abl":"vanaf, door",
+    "procedere":"voortgaan, lopen",
+    "salutare":"(be)groeten",
+    "leo, leones":"leeuw",
+    "petere":"aanvallen",
+    "frustra":"tevergeefs",
+    "terra":"aarde, grond",
+    "resistere":"weerstand bieden",
+    "caput, capita":"hoofd",
+    "pes, pedes":"voet, poot",
+    "vulnerare":"verwonden",
+    "corpus, corpora":"lichaam",
+    "enim":"immers, want",
+    "tenēre":"(vast)houden"
+
+}
