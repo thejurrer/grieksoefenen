@@ -65,11 +65,11 @@ def seehighscores():
 def addhighscore(score):
     naam = input("Wat is je naam:")
     print("Added to highscore list:", score)
-    highscores(score, naam)
+    highscores(score, naam, tekst)
 
-def highscores(score, naam):
+def highscores(score, naam, tekst):
     with open("highscores.txt", "a") as f:
-        f.write(f"{score, naam}, " )
+        f.write(f"{score, naam, tekst}, " )
     
         
             
