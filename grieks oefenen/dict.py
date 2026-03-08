@@ -262,6 +262,27 @@ griekseWoordentekst14 = {
     "φυλάττω": "bewaken, beschermen"
 }
 
+griekseWoordentekst16 = {
+"οἰκέω": "wonen, bewonen",
+"ζητέω": "zoeken",
+"ῥέω": "stromen",
+"τὸ πνεῦμα, πνεύματος": "lucht, adem",
+"κατα-": "naar beneden, neer-",
+"κατά, κατ’, καθ’ + gen": "van ... af (naar beneden)",
+"καὶ δὴ καί": "en ook, en vooral",
+"γελάω": "lachen",
+"καλέω": "roepen, noemen",
+"σκοπέω": "bekijken, beschouwen",
+"ἐρωτάω": "vragen",
+"τί": "wat, waarom",
+"δή": "dus, dan, natuurlijk",
+"δοκέω": "lijken, de indruk wekken, menen",
+"σφόδρα": "hevig, zeer,erg",
+"πολλάκις": "vaak",
+"τιμάω": "eren, vereren",
+"ὑπέρ + gen": "boven",
+}
+
 griekseWoordentekst17 = {
     "νικaῶ": "overwinnen",
     "μάλιστα": "vooral, het meest",

@@ -114,11 +114,14 @@ if __name__ == "__main__":
         elif tekstchoice == "14":
             tekst = d.griekseWoordentekst14
             grieksNederlands(tekst)
+        elif tekstchoice == "16":
+            tekst = d.griekseWoordentekst16
+            grieksNederlands(tekst)
         elif tekstchoice == "17":
             tekst = d.griekseWoordentekst17
             grieksNederlands(tekst)
         elif tekstchoice == "alles":
-            alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9 | d.griekseWoordentekst11 | d.griekseWoordentekst12 | d.griekseWoordentekst13 | d.griekseWoordentekst14 | d.griekseWoordentekst17
+            alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9 | d.griekseWoordentekst11 | d.griekseWoordentekst12 | d.griekseWoordentekst13 | d.griekseWoordentekst14 | d.griekseWoordentekst16 | d.griekseWoordentekst17
             grieksNederlands(alles)
         elif tekstchoice == "lidwoorden":
             tekst =d.lidwoorden
@@ -172,6 +175,7 @@ if __name__ == "__main__":
             print("sorry, die tekst bestaat niet.") 
     
     elif x=='c':
+        print("MARK WAAROM HEB JE DIT TOEGEVOEGD!!??")
         alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9 | d.griekseWoordentekst11 | d.griekseWoordentekst12 | d.griekseWoordentekst13 | d.griekseWoordentekst14 | d.griekseWoordentekst17 | d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3 | d.latijnseWoordentekst4 | d.latijnseWoordentekst5 | d.latijnseWoordentekst6 | d.latijnseWoordentekst8 | d.latijnseWoordentekst9 | d.latijnseWoordentekst10
         grieksNederlands(alles)
 
