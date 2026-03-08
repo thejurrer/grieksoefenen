@@ -277,7 +277,7 @@ griekseWoordentekst16 = {
 "τί": "wat, waarom",
 "δή": "dus, dan, natuurlijk",
 "δοκέω": "lijken, de indruk wekken, menen",
-"σφόδρα": "hevig, zeer,erg",
+"σφόδρα": "hevig, zeer, erg",
 "πολλάκις": "vaak",
 "τιμάω": "eren, vereren",
 "ὑπέρ + gen": "boven",
