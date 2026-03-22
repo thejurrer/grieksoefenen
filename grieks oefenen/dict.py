@@ -305,7 +305,28 @@ griekseWoordentekst17 = {
     "ἀγνοέω": "niet begrijpen, niet weten",
     "ἐφύλαξα": "aor van bewaken"
 }
-
+griekseWoordentekst18 = {
+    "ὁ νόμος": "gewoonte, gebruik, wet",
+    "τάττω": "opstellen, ordenen",
+    "κελεύω": "bevelen, verzoeken",
+    "παρεσκεύασα": "aor van παρασκευάζω",
+    "ἀπέκτεινα": "aor van ἀποκτείνω",
+    "νέμω": "verdelen, toekennen",
+    "ἔφηνα": "aor van φαίνω",
+    "ἔγνων": "aor van γιγνώσκω",
+    "ἐξευρίσκω": "ontdekken, uitvinden",
+    "εὐθύς": "onmiddellijk",
+    "βουλεύω": "beraadslagen, besluiten",
+    "διέφθειρα": "aor van διαφθείρω",
+    "ἀφεῖλον": "aor van ἀφαιρέω",
+    "ἀφαιρέω": "wegnemen, afpakken",
+    "ἔβην": "aor van βαίνω",
+    "ἔκλεψα": "aor van κλέπτω",
+    "κλέπτω": "stelen",
+    "πρός": "tegen ... aan, dichtbij",
+    "ἐσθίω": "eten",
+}
+ 
 
 ##################
 ## Latin klas 2 ##
