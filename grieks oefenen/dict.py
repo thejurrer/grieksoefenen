@@ -313,7 +313,7 @@ griekseWoordentekst18 = {
     "ἀπέκτεινα": "aor van doden",
     "νέμω": "verdelen, toekennen",
     "ἔφηνα": "aor van vluchten, ontvluchten",
-    "ἔγνων": "aor van γιγνώσκω",
+    "ἔγνων": "aor van begrijpen, (leren) kennen",
     "ἐξευρίσκω": "ontdekken, uitvinden",
     "εὐθύς": "onmiddellijk",
     "βουλεύω": "beraadslagen, besluiten",
