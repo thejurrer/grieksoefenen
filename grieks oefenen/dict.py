@@ -590,3 +590,59 @@ latijnseWoordentekst10 = {
     "tenēre":"(vast)houden"
 
 }
+
+latijnseWoordentekst11 = {
+    "domum":"naar huis",
+    "ire":"gaan",
+    "terrere":"bang maken",
+    "hora":"uur",
+    "tunc":"op dat moment, toen",
+    "causa":"reden",
+    "scire":"weten",
+    "verbum":"woord",
+    "antea":"eerder",
+    "nunc":"nu",
+    "sine":"zonder",
+    "contra":"tegen(over)",
+    "centum":"honderd",
+    "appropinquare":"naderen",
+    "vitare":"vermijden",
+    "negare":"ontkennen, weigeren",
+    "consistere":"blijven staan",
+    "vertere":"keren, wenden",
+    "id":"dit",
+    "quiden ... sed":"wel ... maar",
+    "nondum":"nog niet",
+    "adhuc":"nog, tot nu toe",
+    "victor, victores":"(over)winnaar",
+
+}
+
+latijnseWoordentekst12 = {
+    "certamen, certamina":"wedstrijd",
+    "parare":"klaarmaken",
+    "dixi":"pf van zeggen",
+    "heri":"gisteren",
+    "vici":"pf van overwinnen",
+    "cecidi":"pf van vallen",
+    "rexi":"pf van besturen, leiden",
+    "regere":"besturen, leiden",
+    "veni":"pf van komen",
+    "potui":"pf van posse",
+    "tetigi":"pf van tangere",
+    "tangere":"aanraken",
+    "iniuria":"onrecht",
+    "feci":"pf van ",
+    "risi":"pf van lachen",
+    "respondi":"pf van antwoorden",
+    "saepe":"vaak",
+    "incepi":"pf van beginnen",
+    "satis":"genoeg",
+    "ducere":"leiden, brengen",
+    "duxi":"pf van leiden, brengen",
+    "constiti":"pf van blijven staan",
+    "cedere":"(aan de kant) gaan, toegeven",
+    "postquam":"nadat",
+    "fui":"pf van zijn",
+    
+}
