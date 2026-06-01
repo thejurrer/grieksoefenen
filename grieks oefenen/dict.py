@@ -327,6 +327,54 @@ griekseWoordentekst18 = {
     "ἐσθίω": "eten",
 }
  
+griekseWoordentekst19 = {
+    "ἡ ἀγορά": "markt(plein)",
+    "αἱ Ἀθῆναι": "Athene",
+    "ἡ στρατιά": "leger",
+    "ὁ Ἀθηναῖος": "Athener",
+    "κρατέω": "de sterkste zijn, heersen over",
+    "δράω": "doen, handelen",
+    "ἆρα μή;": "toch (zeker) niet?",
+    "ἐάω": "(toe)laten, toestaan",
+    "ἐτέλεσα": "aor van voltooien, afmaken",
+    "τελέω": "voltooien, afmaken",
+    "ἀνέγνων": "aor van herkennen",
+    "ἀναγιγνώσκω": "herkennen",
+    "ἐκάλεσα": "aor van roepen, noemen",
+    "ἤγγειλα": "aor van berichten",
+    "ἀγγέλλω": "berichten",
+    "λυπέω": "pijn doen, verdriet doen",
+    "ἆρ’ οὔ(κ);": "toch zeker, toch wel",
+    "ἔπεισα": "aor van overtuigen, overhalen",
+    "πείθω": "overtuigen, overhalen",
+    "ἔδοξα": "aor van lijken, menen",
+}
+
+griekseWoordentekst21 = {
+    "ὁ δῆμος": "volk",
+    "αἰσχρός, -ά, -όν": "lelijk, schandelijk",
+    "μέγας, μεγάλη, μέγα": "groot",
+    "σοφός, -ή, -όν": "wijs, verstandig",
+    "τε καί, τε ... καί": "en",
+    "ἀγαθός, -ή, -όν": "goed",
+    "ἀνδρεῖος, -α, -ον": "dapper",
+    "ὁ ἥλιος": "zon",
+    "μακρός, -ά, -όν": "lang",
+    "παύω": "doen stoppen, een einde maken aan",
+    "πολύς, πολλή, πολύ": "veel",
+    "φίλος, -η, -ον": "geliefd, dierbaar",
+    "κακός, -ή, -όν": "slecht, laf",
+    "ἡμέτερος, -α, -ον": "onze, van ons",
+    "θαυμαστός, -ή, -όν": "wonderlijk, bijzonder",
+    "ἡ νύξ, νυκτός": "nacht",
+    "ὑψηλός, -ή, -όν": "hoog",
+    "ὁ οὐρανός": "hemel",
+    "ὁ πούς, ποδός": "voet",
+    "σός, σή, σόν": "jouw, uw",
+    "ἄθλιος, -α, -ον": "ongelukkig",
+    "νέος, -α, -ον": "nieuw, jong",
+    "καλός, -ή, -όν": "mooi, goed",
+}
 
 ##################
 ## Latin klas 2 ##
