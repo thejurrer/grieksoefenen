@@ -123,6 +123,12 @@ if __name__ == "__main__":
         elif tekstchoice == "18":
             tekst = d.griekseWoordentekst18
             grieksNederlands(tekst)
+        elif tekstchoice == "19":
+            tekst = d.griekseWoordentekst19
+            grieksNederlands(tekst)
+        elif tekstchoice == "21":
+            tekst = d.griekseWoordentekst21
+            grieksNederlands(tekst)
         elif tekstchoice == "alles":
             alles = d.griekseWoordentekst2 | d.griekseWoordentekst3 | d.griekseWoordentekst4 | d.griekseWoordentekst6 | d.griekseWoordentekst7 | d.griekseWoordentekst8 | d.griekseWoordentekst9 | d.griekseWoordentekst11 | d.griekseWoordentekst12 | d.griekseWoordentekst13 | d.griekseWoordentekst14 | d.griekseWoordentekst16 | d.griekseWoordentekst17
             grieksNederlands(alles)
