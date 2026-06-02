@@ -181,6 +181,12 @@ if __name__ == "__main__":
         elif tekstchoice == "12":
             tekst = d.latijnseWoordentekst12
             grieksNederlands(tekst)
+        elif tekstchoice == "13":
+            tekst = d.latijnseWoordentekst13
+            grieksNederlands(tekst)
+        elif tekstchoice == "15":
+            tekst = d.latijnseWoordentekst15
+            grieksNederlands(tekst)
         elif tekstchoice == "alles":
             alles = d.latijnseWoordentekst1 | d.latijnseWoordentekst2 |d.latijnseWoordentekst3 | d.latijnseWoordentekst4 | d.latijnseWoordentekst5 | d.latijnseWoordentekst6 | d.latijnseWoordentekst8 | d.latijnseWoordentekst9 | d.latijnseWoordentekst10
             grieksNederlands(alles)
