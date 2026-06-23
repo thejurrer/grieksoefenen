@@ -6,8 +6,10 @@
 
 griekseWoordentekst2 = {
     "ἐστί(ν)": "(hij/zij/het/er) is, bestaat",
+    "οὐ/οὐk/οὐχ":"niet",
     "ὁ, ἡ, τό": "de, het",
     "γῆ": "land, aarde",
+    "εἱσι(ν)":"(zij/er) zijn, bestaan",
     "ὁ ποταμός": "rivier",
     "ἡ πέτρα": "rots, rotsblok",
     "τό δένδρον": "boom",
@@ -16,7 +18,13 @@ griekseWoordentekst2 = {
     "ἡ μάχη": "strijd, gevecht",
     "τό ἔργον": "werk, taak, daad",
     "πρῶτον": "eerst",
+    "δε, δ'":"en, maar",
     "ἡ θεά": "godin",
+    "ἐπειτα":"daarna",
+    "και":"en, ook, zelfs",
+    "τοτε":"dan, toen, op dat moment",
+    "γαρ":"want, immers, namelijk",
+    "ἐνταυθα":"daar",
     }
 
 griekseWoordentekst3 = {
@@ -24,17 +32,15 @@ griekseWoordentekst3 = {
     "ἀεί": "altijd, steeds",
     "ὁ ἥλιος": "zon",
     "νοέω": "waarnemen, opmerken",
-    "μέν...δέ": "1 (weliswaar) ... maar 2 ... en",
+    "μέν...δέ": "(weliswaar) ... maar, ... en",
     "τὸ πεδίον": "vlakte",
     "τὸ θηρίον": "(wild) dier",
     "φέρω": "dragen, brengen",
-    "κατά, καθ' + acc": "(verspreid) over",
+    "κατά, κατ, καθ' + acc": "(verspreid) over",
     "ὁ ἵππος": "paard",
     "ἀλλά, ἀλλ'": "maar",
-    "δάμαζω": "temmen",
     "ἀγω": "leiden, brengen",
     "λέγω": "zeggen, spreken",
-    "ὁ ἐπίτροπος": "opzichter, beheerder",
     "νῦν": "nu, op dit moment",
     "αὐτίκα": "meteen",
     "ὀνομάζω": "noemen"
