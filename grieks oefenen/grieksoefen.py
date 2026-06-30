@@ -24,7 +24,7 @@ def grieksNederlands(tekst):
                 mark = True
                 naam = input("Wat is je naam?")
                 print("Added to highscore list:", score)
-                highscores(score, naam)
+                highscores(score, naam, tekst)
                 
                 while mark:
                     print("mark ga weg")
@@ -33,25 +33,25 @@ def grieksNederlands(tekst):
                 print("\nga iets nuttigs met je leven doen")
                 naam = input("Wat is je naam?")
                 print("Added to highscore list:", score)
-                highscores(score, naam)
+                highscores(score, naam, tekst)
 
             elif score >= 40:
                 print("\nJij hebt het helemaal beheerst, goed!")
                 naam = input("Wat is je naam?")
                 print("Added to highscore list:", score)
-                highscores(score, naam)
+                highscores(score, naam, tekst)
 
             elif score >= 30:
                 print("\ngoed, goed, nog heel eventjes en je bent er!")
                 naam = input("Wat is je naam?")
                 print("Added to highscore list:", score)
-                highscores(score, naam)
+                highscores(score, naam, tekst)
 
             elif score >= 20:
                 print("\nAhh, oké dit gaat de goede kant op!")
                 naam = input("Wat is je naam?")
                 print("Added to highscore list:", score)
-                highscores(score, naam)
+                highscores(score, naam, tekst)
             elif score >= 10:
                 print("\nmehhhh, je kan het beter doen!")
             
@@ -61,11 +61,6 @@ def grieksNederlands(tekst):
 def seehighscores():
     with open("highscores.txt", "r") as f:
         print(f.read())
-
-def addhighscore(score):
-    naam = input("Wat is je naam:")
-    print("Added to highscore list:", score)
-    highscores(score, naam, tekst)
 
 def highscores(score, naam, tekst):
     with open("highscores.txt", "a") as f:
